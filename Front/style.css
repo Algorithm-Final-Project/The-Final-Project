@@ -1,0 +1,27 @@
+div {
+	text-align: center;
+}
+
+.parallax{
+	/* height: 100%; */
+	background-image: url("https://pandorafms.com/blog/wp-content/uploads/2018/05/what-is-an-algorithm-featured.png");
+	min-height: 100vh;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.cell{
+	height: 200px;
+	background-color: gray;
+	font-size: 50px;
+}
+
+.main{
+	/* text-align: center; */
+	display: block;
+	font-family: monospace;
+	color: rgb(254, 233, 7);
+	margin: auto;
+}
